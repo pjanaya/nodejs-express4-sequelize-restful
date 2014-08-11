@@ -9,6 +9,7 @@ sudo npm install
 
 ### Database:
 Import the database structure from this file: database.sql
+Database username and password: server.js
 
 ### To execute:
 
