@@ -1,5 +1,6 @@
 Tutorial 2: Node.js + Express 4 + Sequelize-restful
 ===
+Very simple example of how to build a API RESTful with the Node.js module "Sequelize-restful"
 
 ### To install:
 
