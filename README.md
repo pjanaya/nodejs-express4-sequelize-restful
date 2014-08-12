@@ -20,4 +20,4 @@ sudo node server.js
 
 ### For more information:
 
-http://www.pabloanaya.com/blog/building-api-node-js-express-4-mysql
+http://www.pabloanaya.com/blog/sequelize-restful-build-rest-api-seconds/
