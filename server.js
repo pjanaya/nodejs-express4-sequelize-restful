@@ -5,7 +5,7 @@ var express   = require('express')
   , Sequelize = require('sequelize')
   , http      = require('http')
   , restful   = require('sequelize-restful')
-  , sequelize = new Sequelize('test', 'root', 'voyager2', {
+  , sequelize = new Sequelize('test', 'root', 'password', {
             logging: console.log,
             define: {
                 timestamps: false
